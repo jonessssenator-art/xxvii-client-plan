@@ -14,3 +14,11 @@ for name in ['index.html','style.css','app.js','execution.js','plan.js','channel
  shutil.copy(root/name,out/name)
 shutil.copytree(root/'data',out/'data');(out/'.nojekyll').touch()
 print('Built static dashboard; reports:',len(dates),'contacts:',len(latest['contacts']))
+
+# Version assets so browsers receive the same code as the published page.
+import hashlib
+html=(out/'index.html').read_text()
+for asset in ['style.css','app.js','execution.js','plan.js','channels.js']:
+ version=hashlib.sha256((out/asset).read_bytes()).hexdigest()[:10]
+ html=html.replace('"'+asset+'"','"'+asset+'?v='+version+'"')
+(out/'index.html').write_text(html)
