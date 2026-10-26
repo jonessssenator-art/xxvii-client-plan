@@ -27,10 +27,11 @@ before=json.loads((ROOT/'data/dashboard.json').read_text())
 status={'scheduledTime':'19:00 Europe/Moscow','runner':'Mac владельца; требуется интернет и вход в учетную запись','startedAt':now().isoformat(),'status':'running'}
 try:
  if '--publish-check' not in sys.argv:
-  prompt='Выполни сегодняшнюю ежедневную работу по DAILY_REPORT.md. Прочитай data/dashboard.json и обнови только этот файл. Не публикуй сам: проверку и git push сделает скрипт. Не запускай субагентов. Не меняй показатели отправок, ответов, сделок или денег: новой информации от владельца нет. Найди и проверь до 5 реальных свежих запросов или контактов, подготовь до 3 текстов. Сохрани полный формат JSON. Не выдумывай новые результаты. Дата отчета '+now().date().isoformat()+'.'
+  prompt='Выполни сегодняшнюю ежедневную работу по DAILY_REPORT.md. Прочитай data/dashboard.json и обнови только этот файл. Не публикуй сам: проверку и git push сделает скрипт. Не запускай субагентов. Не меняй показатели отправок, ответов, сделок или денег: новой информации от владельца нет. Найди и проверь до 5 реальных свежих запросов или контактов, подготовь до 3 текстов. Сохрани полный формат JSON. Обязательно обнови progress.checks и progress.notes: проставь галочки фактически выполненных задач и итоги по дням. Не выдумывай новые результаты. Дата отчета '+now().date().isoformat()+'.'
   with (RUNTIME/(now().date().isoformat()+'.log')).open('a') as log:
    run([CODEX,'-a','never','exec','--sandbox','workspace-write','-c','sandbox_workspace_write.network_access=true','-c','web_search="live"','--ephemeral','-C',str(ROOT),'--color','never',prompt],stdout=log,stderr=subprocess.STDOUT,timeout=1800)
   after=json.loads((ROOT/'data/dashboard.json').read_text())
+  if not isinstance(after.get('progress',{}).get('checks'),dict) or not isinstance(after.get('progress',{}).get('notes'),dict):raise ValueError('Missing checklist progress')
   if after['report']['date']!=now().date().isoformat():raise ValueError('Agent did not write today report')
   for k in ['sent','replies','deals','received']:
    if after['report'][k]!=before['report'][k]:raise ValueError('Commercial totals changed without evidence')
