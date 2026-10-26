@@ -1,0 +1,2 @@
+# XXVII sales workspace
+Private operator's workflow, published publicly by owner's explicit request. Goal ≥150000 RUB net after subscriptions 30000-40000; collection scenario230000, not promise. Existing verified research, drafts, sources, daily history and 30-day checklist are authoritative. User operates daily: choose next action, copy a tailored message, record actual result. Never fabricate outreach or payments. Existing browser overrides must survive redesign. Local daily runner publishes data and checklist to GitHub Pages. Mac/internet required.

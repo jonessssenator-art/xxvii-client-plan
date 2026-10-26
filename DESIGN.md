@@ -1,0 +1,7 @@
+# XXVII workspace
+Mode: Operate. Redesign authorized 2026-10-26; replaces olive/cream/orange dashboard.
+Brand authority: visually inspected xxvii.ru and its 24za3-dug1eg-.css. Use actual text wordmark xxvii° (Golos Text600, tracking -.035em), no invented arrow. Official monogram favicon copied from xxvii.ru/favicon.svg. Golos Text variable400-900 self-hosted with Cyrillic and Latin subsets.
+Palette: graphite #171717, warm surface #1e1b1a, raised #25211f, warm white #f2efe9, secondary #b6ada5, wine #780e19, hover #a3202f, soft wine #d8a397. Faithful brand colors; no generic glows or gradient accents.
+Composition: 212px workspace rail and persistent thin topbar. Content begins with actual next action, not promotional hero. Overview splits work queue and small financial ledger. Daily plan uses a compact month strip over checklist and notes. Contacts are compact expandable rows with dedicated columns. Detailed evidence and copyable messages are disclosure content, not walls of text.
+Reference: inspected Linear dashboard screenshot on saasui.design/pattern/dashboard/linear for list density and status hierarchy; brand and palette from XXVII. No need for images in a working dashboard. Content width1180px, 8px spacing rhythm, titles28-34px, text14-16px, functional buttons≥40px. Subtle 8-12px corners; no decorative numbered labels.
+Accessibility: clear keyboard focus, contrast, no animation, reduced-motion safe. Mobile rail becomes topnav and content stacks. Verify live rendered desktop/mobile, report/plan/contacts/archive and state preservation.
