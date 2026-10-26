@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-26",
+  "checkedAt": "2026-10-26T21:19:09.716758+03:00",
+  "kind": "availability-check",
+  "summary": "Проверена доступность 13 ссылок портфолио и источников. Переписка и оплаты не подключены; показатели продаж не изменены.",
+  "checks": [
+    {
+      "name": "GUDOVA GROUP",
+      "url": "https://xxvii.ru/cases/gudova",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "COLLECTIVE",
+      "url": "https://xxvii.ru/cases/collective",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "FREZER",
+      "url": "https://xxvii.ru/cases/frezer",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Мой бизнес Дагестан",
+      "url": "https://mb05.ru/",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Telegram «Мой бизнес»",
+      "url": "https://t.me/s/moibizn05",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Бизнес-чат Махачкалы",
+      "url": "https://t.me/biznes_chat_mahachkala",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Dev Seagulls",
+      "url": "https://t.me/dev_seagulls",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Работа Махачкала",
+      "url": "https://t.me/s/rabota_makhachkalab",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Агентство РД",
+      "url": "https://t.me/s/agentstvord",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Freelance Taverna",
+      "url": "https://t.me/s/freelancetaverna",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Про заявки",
+      "url": "https://t.me/s/pro_zayavki",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "FL.ru",
+      "url": "https://www.fl.ru/projects/5522250/ischu-razrabotchika-tilda-dlya-postoyannogo-sootrudnichestva.html",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "BizFam Махачкала",
+      "url": "https://mahachkala.bizfam.ru/group/mainstream",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    }
+  ]
+}
