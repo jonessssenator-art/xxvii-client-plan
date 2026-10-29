@@ -13,6 +13,7 @@ out=root/'docs';shutil.rmtree(out,ignore_errors=True);out.mkdir()
 for name in ['index.html','style.css','app.js','execution.js','plan.js','channels.js','studio.js','contacts.csv']:
  shutil.copy(root/name,out/name)
 shutil.copytree(root/'assets',out/'assets');shutil.copytree(root/'data',out/'data');(out/'.nojekyll').touch()
+if (root/'proposals').exists(): shutil.copytree(root/'proposals',out/'proposals')
 print('Built static dashboard; reports:',len(dates),'contacts:',len(latest['contacts']))
 
 # Version assets so browsers receive the same code as the published page.

@@ -1,0 +1,4 @@
+# Assets and scope
+The staircase illustration is generated specifically for this proposal using the built-in image generation tool on 2026-10-29. Source: /Users/27/.codex/generated_images/01a15f41-12fc-7432-9f74-962ac07218d2/exec-5e3c2bc9-f962-47f0-ad07-58a2627b8d27.png. It is illustrative, not a company project. JPEG conversion only; detail images use CSS crops. The visible proposal explicitly discloses this.
+Fonts: self-hosted Golos Text reused from XXVII dashboard. Typography substituted for dealt Barlow because Cyrillic support is required. No brand identity for LesoStil was supplied; wordmark is a concept, not claimed official logo.
+Visual reference actually viewed: https://dribbble.com/shots/16625030-ZEST-Interior-Studio-Website (ZEST by Nemanja Nedeljkovic), for image-led architectural presentation and restrained type. No reference images copied. April Studio inaccessible in browser; Astra connector unavailable.
