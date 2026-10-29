@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-29",
+  "checkedAt": "2026-10-29T19:26:43.748179+03:00",
+  "kind": "availability-check",
+  "summary": "Проверена доступность 25 ссылок портфолио и источников. Переписка и оплаты не подключены; показатели продаж не изменены.",
+  "checks": [
+    {
+      "name": "GUDOVA GROUP",
+      "url": "https://xxvii.ru/cases/gudova",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "COLLECTIVE",
+      "url": "https://xxvii.ru/cases/collective",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "FREZER",
+      "url": "https://xxvii.ru/cases/frezer",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Мой бизнес Дагестан",
+      "url": "https://mb05.ru/",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Telegram «Мой бизнес»",
+      "url": "https://t.me/s/moibizn05",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Бизнес-чат Махачкалы",
+      "url": "https://t.me/biznes_chat_mahachkala",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Dev Seagulls",
+      "url": "https://t.me/dev_seagulls",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Работа Махачкала",
+      "url": "https://t.me/s/rabota_makhachkalab",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Агентство РД",
+      "url": "https://t.me/s/agentstvord",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Freelance Taverna",
+      "url": "https://t.me/s/freelancetaverna",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Про заявки",
+      "url": "https://t.me/s/pro_zayavki",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "FL.ru",
+      "url": "https://www.fl.ru/projects/5522250/ischu-razrabotchika-tilda-dlya-postoyannogo-sootrudnichestva.html",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "BizFam Махачкала",
+      "url": "https://mahachkala.bizfam.ru/group/mainstream",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "FL.ru: первый тест",
+      "url": "https://www.fl.ru/",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Kwork: дополнительный канал",
+      "url": "https://blog.kwork.ru/updates/obnovlenie-uslovij-dlya-polucheniya-lgotnoj-komissii",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "FL.ru: типовая услуга",
+      "url": "https://www.fl.ru/uslugi-freelancera/",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Астрахань: ЛесоСтиль",
+      "url": "https://spravkainform.ru/russia/astrahan/mebel-garnitury-na-zakaz/lesostil",
+      "result": "HTTP 403. Возможны ограничения доступа; не считать компанию закрытой."
+    },
+    {
+      "name": "Астрахань: На Кубанской",
+      "url": "https://astrahan.ouuo.ru/na-kubanskoy/",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Астрахань: Белый кот",
+      "url": "https://2gis.ru/astrakhan/firm/70000001020231352",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Не включать в «без сайта»: Акварель",
+      "url": "https://akvarelastrakhan.ru/kuhni",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Не включать в «без сайта»: Венеция",
+      "url": "https://venice-mebel.ru/",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Пауза: Предметы Кудинова",
+      "url": "https://astrahan.ouuo.ru/predmety-kudinova/",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Астрахань: Астмебель",
+      "url": "https://astmebel.ru/contacts/",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Астрахань: МебельДомСтрой",
+      "url": "https://mebeldomstroy.ru/contacts/",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    },
+    {
+      "name": "Поиск свежего спроса: MyWorkFinder",
+      "url": "https://myworkfinder.ru/for/developer",
+      "result": "HTTP 200. Доступность проверена; актуальность предложения не установлена."
+    }
+  ]
+}
