@@ -1,0 +1,8 @@
+# LesoStil proposal v2 - 2026-10-30
+Scope: only this proposal, not the XXVII dashboard.
+Mode: Experience, followed by a compact commercial offer. The owner sees the proposed site before reading about the service.
+Direction: name-as-monument, seed 1573921445. Adapted to Cyrillic with existing self-hosted Golos (Epilogue does not meet the Cyrillic brief). No automatic motion: user requires purposeful interaction and rejects decorative effects. Navigation location labels are actual site content, not decorative headings. The phone is an interface specimen with its own scale.
+Tokens: paper #edece7, ink #30372c, deep #303b2e, white #fff, secondary #555d50. Golos variable 400-900, mostly 450/500. Full-width wordmark, full-width staircase, switchable door/stair image, mobile device, concise price. No split first screen, no GUDOVA, no testimonials or invented results.
+One interaction: product buttons change image, caption and full-resolution link; aria-pressed reflects selection. No simulated lead submission. Contact points to Nazir, not an unverified client account.
+Copy visible by default is approximately half the former version. Detailed scope uses native details/summary. Images explicitly marked as concept, not client projects.
+Verification: actual rendered 1440, 768, 390 screens and all three PDF pages reviewed. Fonts and images load; mobile has no horizontal overflow; gallery and scope toggle work. Body 16px; attribution/nav 13-14px. Taste source lint passed. Automated inspect flags a static page and location text over wordmark: retained deliberately under user's motion/content requirements. Size warning comes from phone specimen and large wordmark. No client video is available; do not imply footage of their workshop.

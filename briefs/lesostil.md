@@ -9,3 +9,6 @@ FORM: full-image architecture; taste direction place-carries-it. Chosen independ
 FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance.
 ## Finish
 Desktop and 390px mobile renders reviewed; PDF three landscape pages reviewed. Functional internal navigation and contact destination checked. Photo concept disclosure visible. Existing dashboard visual system preserved, extended with proposal preview and source disclosure. Visual world scoped to this proposal; no global redesign.
+
+## Replacement 2026-10-30
+User rejected long-form proposal. Superseded v1 with name-as-monument (seed 1573921445), product-first composition, two concept images, functioning product switcher, phone specimen, short from-50000 offer; technical scope collapsed. See proposals/lesostil/DESIGN.md for the scoped final direction. No unsolicited case studies or outbound messages. Dashboard counters preserved.
